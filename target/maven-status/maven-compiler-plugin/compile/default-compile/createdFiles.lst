@@ -1,0 +1,4 @@
+com\virgingames\constants\EndPoints.class
+com\virgingames\utils\TestUtils.class
+com\virgingames\constants\Path.class
+com\virgingames\utils\PropertyReader.class
